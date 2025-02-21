@@ -1,5 +1,5 @@
 
-![Test Result](https://github.com/jitvimol/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+![code coverage badge](https://github.com/jitvimol/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
